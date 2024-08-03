@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // src/ParagraphGenerator.js
 import React, { useState } from 'react';
 import { Transition } from '@headlessui/react';
